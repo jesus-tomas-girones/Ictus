@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="titulo">CEREBRAL STROQUE DETECTION</string>
+    <string name="comenzar">Press to start</string>
+    <string name="boton_arrancar">START</string>
+    <string name="sonrie">SMILE TO THE CAMERA</string>
+    <string name="pasar">Pass</string>
+    <string name="repite">REPEAT AFTER ME</string>
+    <string name="frase_a_repetir">I have to buy a dozen eggs</string>
+    <string name="pulsa_altavoz">Press on the speaker and repeat.</string>
+    <string name="levanta_brazo">RAISE YOUR RIGTH ARM</string>
+    <string name="levanta_brazo_animación">hold the phone with the right hand and raise the arm as shown in the animation</string>
+    <string name="sin_mover_muneca">Without moving the wrist.</string>
+    <string name="resultados">RESULTS</string>
+    <string name="contacta_emergencias">CONTANTING EMERGENCIES</string>
+    <string name="repetir">REPEAT</string>
+</resources>

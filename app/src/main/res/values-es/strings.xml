@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">DETECCIÓN DE ICTUS CEREBRALES</string>
+    <string name="comenzar">Pulsa el botón para comenzar</string>
+    <string name="boton_arrancar">COMENZAR</string>
+    <string name="sonrie">SONRÍE A LA CÁMARA</string>
+    <string name="pasar">Pasar</string>
+    <string name="repite">REPITE LA FRASE</string>
+    <string name="frase_a_repetir">Tengo que comprar una docena de huevos</string>
+    <string name="pulsa_altavoz">Pulsa en el altavoz para repetir.</string>
+    <string name="levanta_brazo">LEVANTA EL BRAZO DERECHO</string>
+    <string name="levanta_brazo_animación">sujeta el móvil con la mano derecha y levanta el brazo como se muestra en la animación</string>
+    <string name="sin_mover_muneca">Sin mover la muñeca.</string>
+    <string name="resultados">RESULTADOS</string>
+    <string name="contacta_emergencias">CONTACTAR SERVICIO EMERGÉNCIAS</string>
+    <string name="repetir">REPETIR</string>
+</resources>
